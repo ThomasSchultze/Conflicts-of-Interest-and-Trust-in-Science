@@ -1,17 +1,17 @@
-### COI and Trust in Science - Study 3
-
+### COI and Trust in Science - Study 1
 
 # 0. load libraries and data ----------------------------------------------
 
-# Run from the repository root, e.g. Rscript code/analysis/COI_Exp3.R.
+# Run from the repository root, e.g. Rscript experiments/experiment-1/COI_Exp1.R.
 
 library(BayesFactor)
 library(dplyr)
 library(yarrr)
 library(HDInterval)
+library(ggplot2)
+library(tidyr)
 
-# load data
-data_COI = read.csv('data/experiment-3/data_COI_Exp3.csv')
+data_COI = read.csv('experiments/experiment-1/data_COI_Exp1.csv')
 
 # transform independent variables to factors for analyses
 data_COI = data_COI %>% mutate(COI = factor(COI, levels = c('no COI', 'COI')),
@@ -19,25 +19,13 @@ data_COI = data_COI %>% mutate(COI = factor(COI, levels = c('no COI', 'COI')),
                                                labels = c('pos', 'neg')))
 
 
-# 1. Participant exclusion --------------------------------------------------
+# 1. Inspect attention check and exclude participants who failed it -------
 
 # check how many participants failed the attention check
 table(data_COI$AC)
 
 # remove cases with incorrect attention checks
 data_COI = data_COI %>% filter(AC == 'correct')
-
-# check how many participants failed the attention check
-table(data_COI$AC)
-
-# remove cases with incorrect attention checks
-data_COI = data_COI %>% filter(AC == 'correct')
-
-# remove cases who report not holding a PhD in a basic or applied science
-data_COI = data_COI %>% filter(participant_phd == "yes")
-
-# remove cases who have not yet published empirical work
-data_COI = data_COI %>% filter(published_empirical == "yes")
 
 
 # 2. analyses -------------------------------------------------------------
@@ -145,7 +133,8 @@ bayes_se_1b = ttestBF(data_COI$trust_study[data_COI$COI == 'COI' & data_COI$resu
 print_t_test(freq_t = freq_se_1b, Bayes_t = bayes_se_1b, one_tailed = T)
 
 
-# 2.1.2.3 simple effect of COI when results favour the new drug ----------------
+
+# 2.1.2.3 simple effect of COI when results are positive ----------------
 
 # frequentist t-test of the simple effect to derive t-statistic and degrees of freedom from
 freq_se_1c = t.test(data_COI$trust_study[data_COI$COI == 'no COI' & data_COI$result == 'pos'],
@@ -161,7 +150,8 @@ bayes_se_1c = ttestBF(data_COI$trust_study[data_COI$COI == 'no COI' & data_COI$r
 print_t_test(freq_t = freq_se_1c, Bayes_t = bayes_se_1c, one_tailed = T)
 
 
-# 2.1.2.4 simple effect of COI when results speak against the new drug ----------------
+
+# 2.1.2.4 simple effect of COI when results are negative ----------------
 
 # frequentist t-test of the simple effect to derive t-statistic and degrees of freedom from
 freq_se_1d = t.test(data_COI$trust_study[data_COI$COI == 'COI' & data_COI$result == 'neg'],
@@ -255,8 +245,6 @@ plot_study = function(){
 plot_study()
 
 
-
-
 # 2.2 Trust in the authors --------------------------------------------------
 
 # 2.2.1 Bayesian ANOVA ------------------------------------------------------
@@ -269,7 +257,6 @@ aov2 = anovaBF(trust_authors ~ COI * result, data = na.omit(data_COI), progress 
 
 # BF for the interaction effect
 exp(aov2@bayesFactor$bf)[4]/exp(aov2@bayesFactor$bf)[3]
-
 
 
 # 2.2.2 simple effects ---------------------------------------------
@@ -306,7 +293,6 @@ bayes_se_2b = ttestBF(data_COI$trust_authors[data_COI$COI == 'COI' & data_COI$re
 print_t_test(freq_t = freq_se_2b, Bayes_t = bayes_se_2b, one_tailed = T)
 
 
-
 # 2.2.2.3 simple effect of COI when results favour the new drug ----------------
 
 # frequentist t-test of the simple effect to derive t-statistic and degrees of freedom from
@@ -321,7 +307,6 @@ bayes_se_2c = ttestBF(data_COI$trust_authors[data_COI$COI == 'no COI' & data_COI
 
 # display the results
 print_t_test(freq_t = freq_se_2c, Bayes_t = bayes_se_2c, one_tailed = T)
-
 
 
 # 2.2.2.4 simple effect of COI when results speak against the new drug ----------------
@@ -357,7 +342,6 @@ print_t_test(freq_t = freq_se_2d, Bayes_t = bayes_se_2d.2)
 # of this test.
 
 
-
 # 2.2.3 plot --------------------------------------------------------------
 
 # 2.1.3 plot --------------------------------------------------------------
@@ -371,7 +355,7 @@ plot_authors = function(){
   par(mar = c(2.5,2.5,1,1))
   
   # call the base plot
-  pirateplot(data = data_COI, trust_authors ~ result * COI, theme = 1, inf.method = 'hdi',
+  pirateplot(data = data_COI, trust_study ~ result * COI, theme = 1, inf.method = 'hdi',
              pal = QUB_palette[1:2], gl = 0,  xaxt = 'n', yaxt = 'n', bty = 'L', inf.lwd = 0.5,
              xlab = '', ylab = '', bean.lwd = 0.5, point.cex = 0.5, gl.lwd = 1, ylim = c(0, 10))
   
@@ -811,13 +795,13 @@ print_t_test(freq_t = freq_se_5c, Bayes_t = bayes_se_5c, one_tailed = T)
 # 2.5.2.4 simple effect of COI when results speak against the new drug ----------------
 
 # frequentist t-test of the simple effect to derive t-statistic and degrees of freedom from
-freq_se_5d = t.test(data_COI$est_replicability[data_COI$COI == 'no COI' & data_COI$result == 'neg'],
-                    data_COI$est_replicability[data_COI$COI == 'COI' & data_COI$result == 'neg'],
+freq_se_5d = t.test(data_COI$est_replicability[data_COI$COI == 'COI' & data_COI$result == 'neg'],
+                    data_COI$est_replicability[data_COI$COI == 'no COI' & data_COI$result == 'neg'],
                     var.equal = T)
 
 # Bayesian t-test
-bayes_se_5d = ttestBF(data_COI$est_replicability[data_COI$COI == 'no COI' & data_COI$result == 'neg'],
-                      data_COI$est_replicability[data_COI$COI == 'COI' & data_COI$result == 'neg'],
+bayes_se_5d = ttestBF(data_COI$est_replicability[data_COI$COI == 'COI' & data_COI$result == 'neg'],
+                      data_COI$est_replicability[data_COI$COI == 'no COI' & data_COI$result == 'neg'],
                       rscale = 0.5, nullInterval = c(-Inf, 0))
 
 # display the results
@@ -829,8 +813,8 @@ print_t_test(freq_t = freq_se_5d, Bayes_t = bayes_se_5d, one_tailed = T)
 ## a) absence of a difference or b) a difference in the opposite direction
 
 # Bayesian t-test
-bayes_se_5d.2 = ttestBF(data_COI$est_replicability[data_COI$COI == 'no COI' & data_COI$result == 'neg'],
-                        data_COI$est_replicability[data_COI$COI == 'COI' & data_COI$result == 'neg'],
+bayes_se_5d.2 = ttestBF(data_COI$est_replicability[data_COI$COI == 'COI' & data_COI$result == 'neg'],
+                        data_COI$est_replicability[data_COI$COI == 'no COI' & data_COI$result == 'neg'],
                         rscale = 0.5)
 
 # display the results
@@ -839,6 +823,7 @@ print_t_test(freq_t = freq_se_5d, Bayes_t = bayes_se_5d.2)
 # The follow-up test indicates evidence of the absence of a difference, so
 # we adopt this as the best representation of the data and report the results
 # of this test.
+
 
 
 # 2.5.3 plot --------------------------------------------------------------

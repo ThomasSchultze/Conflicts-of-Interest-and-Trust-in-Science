@@ -4,7 +4,7 @@
 
 # 0. load libraries and data ----------------------------------------------
 
-# Run from the repository root, e.g. Rscript code/analysis/COI_Exp5.R.
+# Run from the repository root, e.g. Rscript experiments/experiment-5/COI_Exp5.R.
 
 library(BayesFactor)
 library(dplyr)
@@ -14,7 +14,7 @@ library(ggplot2)
 library(gridExtra)
 library(tidyr)
 
-data_COI = read.csv('data/experiment-5/data_COI_Exp5.csv')
+data_COI = read.csv('experiments/experiment-5/data_COI_Exp5.csv')
 
 
 # 1. Inspect attention check and exclude participants who failed it -------

@@ -1,16 +1,16 @@
-### COI and Trust in Science - Study 2
+### COI and Trust in Science - Study 4
 
 
 # 0. load libraries and data ----------------------------------------------
 
-# Run from the repository root, e.g. Rscript code/analysis/COI_Exp2.R.
+# Run from the repository root, e.g. Rscript experiments/experiment-4/COI_Exp4.R.
 
 library(BayesFactor)
 library(dplyr)
 library(yarrr)
 library(HDInterval)
 
-data_COI = read.csv('data/experiment-2/data_COI_Exp2.csv')
+data_COI = read.csv('experiments/experiment-4/data_COI_Exp4.csv')
 
 # transform independent variables to factors for analyses
 data_COI = data_COI %>% mutate(COI = factor(COI, levels = c('no COI', 'COI')),
@@ -61,6 +61,10 @@ print_t_test = function(freq_t, Bayes_t, one_tailed = F){
   else{
     post_d = posterior(Bayes_t[2], iterations = 50000)
   }
+  
+  # post_d = ifelse(one_tailed == F,
+  #                 posterior(Bayes_t, iterations = 50000),
+  #                 posterior(Bayes_t[2], iterations = 50000))
   
   # estimate of the posterior effect size d, rounded to two decimals
   d_est = round(mean(post_d[,4]),2)
@@ -163,6 +167,7 @@ bayes_se_1d = ttestBF(data_COI$trust_study[data_COI$COI == 'COI' & data_COI$resu
 
 # display the results
 print_t_test(freq_t = freq_se_1d, Bayes_t = bayes_se_1d, one_tailed = T)
+
 
 ## As per the preregistration, we now run a two-tailed Bayesian t-test to 
 ## infer whether the evidence in favour of the Null hypothesis is due to 
@@ -288,6 +293,7 @@ bayes_se_2b = ttestBF(data_COI$trust_authors[data_COI$COI == 'COI' & data_COI$re
 
 # display the results
 print_t_test(freq_t = freq_se_2b, Bayes_t = bayes_se_2b, one_tailed = T)
+
 
 
 # 2.2.2.3 simple effect of COI when results favour the new method ----------------
@@ -450,6 +456,7 @@ bayes_se_3b = ttestBF(data_COI$trust_journal[data_COI$COI == 'COI' & data_COI$re
 print_t_test(freq_t = freq_se_3b, Bayes_t = bayes_se_3b, one_tailed = T)
 
 
+
 # 2.3.2.3 simple effect of COI when results favour the new method ----------------
 
 # frequentist t-test of the simple effect to derive t-statistic and degrees of freedom from
@@ -466,6 +473,7 @@ bayes_se_3c = ttestBF(data_COI$trust_journal[data_COI$COI == 'no COI' & data_COI
 print_t_test(freq_t = freq_se_3c, Bayes_t = bayes_se_3c, one_tailed = T)
 
 
+
 # 2.3.2.4 simple effect of COI when results speak against the new method ----------------
 
 # frequentist t-test of the simple effect to derive t-statistic and degrees of freedom from
@@ -480,6 +488,7 @@ bayes_se_3d = ttestBF(data_COI$trust_journal[data_COI$COI == 'COI' & data_COI$re
 
 # display the results
 print_t_test(freq_t = freq_se_3d, Bayes_t = bayes_se_3d, one_tailed = T)
+
 
 ## As per the preregistration, we now run a two-tailed Bayesian t-test to 
 ## infer whether the evidence in favour of the Null hypothesis is due to 
@@ -607,6 +616,7 @@ bayes_se_4b = ttestBF(data_COI$trust_company[data_COI$COI == 'COI' & data_COI$re
 print_t_test(freq_t = freq_se_4b, Bayes_t = bayes_se_4b, one_tailed = T)
 
 
+
 # 2.4.2.3 simple effect of COI when results favour the new method ----------------
 
 # frequentist t-test of the simple effect to derive t-statistic and degrees of freedom from
@@ -623,6 +633,7 @@ bayes_se_4c = ttestBF(data_COI$trust_company[data_COI$COI == 'no COI' & data_COI
 print_t_test(freq_t = freq_se_4c, Bayes_t = bayes_se_4c, one_tailed = T)
 
 
+
 # 2.4.2.4 simple effect of COI when results speak against the new method ----------------
 
 # frequentist t-test of the simple effect to derive t-statistic and degrees of freedom from
@@ -637,6 +648,7 @@ bayes_se_4d = ttestBF(data_COI$trust_company[data_COI$COI == 'COI' & data_COI$re
 
 # display the results
 print_t_test(freq_t = freq_se_4d, Bayes_t = bayes_se_4d, one_tailed = T)
+
 
 ## As per the preregistration, we now run a two-tailed Bayesian t-test to 
 ## infer whether the evidence in favour of the Null hypothesis is due to 
@@ -780,6 +792,7 @@ bayes_se_5c = ttestBF(data_COI$est_replicability[data_COI$COI == 'no COI' & data
 print_t_test(freq_t = freq_se_5c, Bayes_t = bayes_se_5c, one_tailed = T)
 
 
+
 # 2.5.2.4 simple effect of COI when results speak against the new method ----------------
 
 # frequentist t-test of the simple effect to derive t-statistic and degrees of freedom from
@@ -795,13 +808,14 @@ bayes_se_5d = ttestBF(data_COI$est_replicability[data_COI$COI == 'COI' & data_CO
 # display the results
 print_t_test(freq_t = freq_se_5d, Bayes_t = bayes_se_5d, one_tailed = T)
 
+
 ## As per the preregistration, we now run a two-tailed Bayesian t-test to 
 ## infer whether the evidence in favour of the Null hypothesis is due to 
 ## a) absence of a difference or b) a difference in the opposite direction
 
 # Bayesian t-test
-bayes_se_5d.2 = ttestBF(data_COI$est_replicability[data_COI$COI == 'COI' & data_COI$result == 'neg'],
-                        data_COI$est_replicability[data_COI$COI == 'no COI' & data_COI$result == 'neg'],
+bayes_se_5d.2 = ttestBF(data_COI$est_replicability[data_COI$COI == 'no COI' & data_COI$result == 'neg'],
+                        data_COI$est_replicability[data_COI$COI == 'COI' & data_COI$result == 'neg'],
                         rscale = 0.5)
 
 # display the results
@@ -810,6 +824,7 @@ print_t_test(freq_t = freq_se_5d, Bayes_t = bayes_se_5d.2)
 # The follow-up test indicates evidence of the absence of a difference, so
 # we adopt this as the best representation of the data and report the results
 # of this test.
+
 
 
 # 2.5.3 plot --------------------------------------------------------------

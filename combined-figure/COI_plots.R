@@ -3,7 +3,7 @@
 
 # 0. load libraries and data ----------------------------------------------
 
-# Run from the repository root, e.g. Rscript code/figures/COI_plots.R.
+# Run from the repository root, e.g. Rscript combined-figure/COI_plots.R.
 
 # custom colour palettes
 BAM_primary = c('#00457D', '#FFD300', '#97BF0D', '#E6444F')
@@ -17,11 +17,11 @@ library(ggbreak)
 
 
 # read individual data sets
-df1 = read.csv("data/derived/plot_data_Exp1.csv") 
-df2 = read.csv("data/derived/plot_data_Exp2.csv") 
-df3 = read.csv("data/derived/plot_data_Exp3.csv") 
-df4 = read.csv("data/derived/plot_data_Exp4.csv") 
-df5 = read.csv("data/derived/plot_data_Exp5.csv")
+df1 = read.csv("combined-figure/data/plot_data_Exp1.csv") 
+df2 = read.csv("combined-figure/data/plot_data_Exp2.csv") 
+df3 = read.csv("combined-figure/data/plot_data_Exp3.csv") 
+df4 = read.csv("combined-figure/data/plot_data_Exp4.csv") 
+df5 = read.csv("combined-figure/data/plot_data_Exp5.csv")
 
 
 # combine data sets

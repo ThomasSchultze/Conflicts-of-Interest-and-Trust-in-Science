@@ -10,10 +10,8 @@ All studies were preregistered on the [Open Science Framework](https://osf.io/79
 
 | Location | Contents |
 | --- | --- |
-| `data/experiment-1` through `data/experiment-5` | Anonymised participant-level CSV data for the five experiments. |
-| `data/derived` | Tidy data sets used to create the combined central figure. |
-| `code/analysis` | One R script reproducing the analyses for each experiment. |
-| `code/figures/COI_plots.R` | R script that creates the combined central result figure. |
+| `experiments/experiment-1` through `experiments/experiment-5` | Self-contained folders containing anonymised participant-level data, the R analysis script, and study materials for each experiment. |
+| `combined-figure` | Tidy figure data and the R script that creates the combined central result figure. |
 | `figures` | Generated, publication-quality figures. Run the figure script to create `Fig1.png`. |
 | `materials` | Publicly shareable study materials; these will be added when available. |
 
@@ -22,19 +20,19 @@ All studies were preregistered on the [Open Science Framework](https://osf.io/79
 Use R from the repository root. The scripts use `BayesFactor`, `dplyr`, `yarrr`, `HDInterval`, `ggplot2`, `tidyr`, `bain`, `gridExtra`, `cowplot`, and `ggbreak` as applicable. Install missing packages once, then run:
 
 ```r
-source("code/analysis/COI_Exp1.R")
-source("code/analysis/COI_Exp2.R")
-source("code/analysis/COI_Exp3.R")
-source("code/analysis/COI_Exp4.R")
-source("code/analysis/COI_Exp5.R")
-source("code/figures/COI_plots.R")
+source("experiments/experiment-1/COI_Exp1.R")
+source("experiments/experiment-2/COI_Exp2.R")
+source("experiments/experiment-3/COI_Exp3.R")
+source("experiments/experiment-4/COI_Exp4.R")
+source("experiments/experiment-5/COI_Exp5.R")
+source("combined-figure/COI_plots.R")
 ```
 
 The final command writes the central combined figure to `figures/Fig1.png` at 600 dpi. Individual analysis scripts retain the original analysis workflow and print results to the R console.
 
 ## Data notes
 
-The data are public with participant consent and contain no direct identifying information. `ID` is a study-specific participant identifier. See [data/README.md](data/README.md) for a concise variable guide.
+The data are public with participant consent and contain no direct identifying information. `ID` is a study-specific participant identifier. See [experiments/README.md](experiments/README.md) for a concise variable guide and materials inventory.
 
 ## Licensing and citation
 
