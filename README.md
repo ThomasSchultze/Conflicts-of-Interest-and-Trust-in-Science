@@ -11,7 +11,7 @@ All studies were preregistered on the [Open Science Framework](https://osf.io/79
 | Location | Contents |
 | --- | --- |
 | `experiments/experiment-1` through `experiments/experiment-5` | Self-contained folders containing anonymised participant-level data, the R analysis script, and study materials for each experiment. |
-| `combined-figure` | Tidy figure data and the R script that creates the combined central result figure. |
+| `combined-figure` | Tidy figure data, R script, and publication-ready central result figure (`Fig1.png`). |
 | `site` | Source files for the public results site, published automatically with GitHub Pages. |
 
 ## Reproducing the analyses
