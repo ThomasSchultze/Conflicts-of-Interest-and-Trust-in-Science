@@ -1,0 +1,1941 @@
+"ID","COI","result","measure","trust"
+1,"no COI","con","study",5
+1,"no COI","con","journal",5
+1,"no COI","con","company",4
+1,"no COI","con","authors",5
+1,"no COI","con","replicability",70
+3,"no COI","pro","study",6
+3,"no COI","pro","journal",6
+3,"no COI","pro","company",6
+3,"no COI","pro","authors",6
+3,"no COI","pro","replicability",90
+4,"COI","con","study",6
+4,"COI","con","journal",7
+4,"COI","con","company",7
+4,"COI","con","authors",3
+4,"COI","con","replicability",90
+6,"no COI","con","study",6
+6,"no COI","con","journal",6
+6,"no COI","con","company",6
+6,"no COI","con","authors",6
+6,"no COI","con","replicability",80
+8,"no COI","pro","study",5
+8,"no COI","pro","journal",4
+8,"no COI","pro","company",4
+8,"no COI","pro","authors",5
+8,"no COI","pro","replicability",50
+9,"no COI","con","study",2
+9,"no COI","con","journal",6
+9,"no COI","con","company",6
+9,"no COI","con","authors",6
+9,"no COI","con","replicability",50
+10,"COI","pro","study",6
+10,"COI","pro","journal",6
+10,"COI","pro","company",6
+10,"COI","pro","authors",6
+10,"COI","pro","replicability",95
+11,"COI","con","study",5
+11,"COI","con","journal",4
+11,"COI","con","company",3
+11,"COI","con","authors",5
+11,"COI","con","replicability",45
+12,"COI","pro","study",3
+12,"COI","pro","journal",4
+12,"COI","pro","company",4
+12,"COI","pro","authors",4
+12,"COI","pro","replicability",50
+13,"no COI","pro","study",3
+13,"no COI","pro","journal",4
+13,"no COI","pro","company",3
+13,"no COI","pro","authors",5
+13,"no COI","pro","replicability",40
+14,"COI","con","study",6
+14,"COI","con","journal",7
+14,"COI","con","company",4
+14,"COI","con","authors",7
+14,"COI","con","replicability",80
+15,"no COI","pro","study",3
+15,"no COI","pro","journal",4
+15,"no COI","pro","company",4
+15,"no COI","pro","authors",4
+15,"no COI","pro","replicability",0
+16,"no COI","con","study",5
+16,"no COI","con","journal",5
+16,"no COI","con","company",5
+16,"no COI","con","authors",5
+16,"no COI","con","replicability",75
+17,"no COI","pro","study",5
+17,"no COI","pro","journal",5
+17,"no COI","pro","company",5
+17,"no COI","pro","authors",5
+17,"no COI","pro","replicability",80
+18,"COI","pro","study",3
+18,"COI","pro","journal",3
+18,"COI","pro","company",4
+18,"COI","pro","authors",3
+18,"COI","pro","replicability",60
+19,"COI","pro","study",3
+19,"COI","pro","journal",3
+19,"COI","pro","company",3
+19,"COI","pro","authors",3
+19,"COI","pro","replicability",50
+20,"no COI","con","study",5
+20,"no COI","con","journal",6
+20,"no COI","con","company",5
+20,"no COI","con","authors",5
+20,"no COI","con","replicability",60
+22,"COI","con","study",6
+22,"COI","con","journal",6
+22,"COI","con","company",6
+22,"COI","con","authors",6
+22,"COI","con","replicability",80
+23,"no COI","con","study",4
+23,"no COI","con","journal",5
+23,"no COI","con","company",4
+23,"no COI","con","authors",6
+23,"no COI","con","replicability",79
+24,"COI","con","study",6
+24,"COI","con","journal",7
+24,"COI","con","company",5
+24,"COI","con","authors",6
+24,"COI","con","replicability",70
+25,"no COI","con","study",6
+25,"no COI","con","journal",5
+25,"no COI","con","company",4
+25,"no COI","con","authors",4
+25,"no COI","con","replicability",85
+27,"no COI","con","study",4
+27,"no COI","con","journal",4
+27,"no COI","con","company",4
+27,"no COI","con","authors",5
+27,"no COI","con","replicability",50
+28,"COI","pro","study",6
+28,"COI","pro","journal",5
+28,"COI","pro","company",5
+28,"COI","pro","authors",6
+28,"COI","pro","replicability",65
+29,"no COI","pro","study",6
+29,"no COI","pro","journal",6
+29,"no COI","pro","company",6
+29,"no COI","pro","authors",6
+29,"no COI","pro","replicability",90
+30,"no COI","pro","study",6
+30,"no COI","pro","journal",6
+30,"no COI","pro","company",6
+30,"no COI","pro","authors",6
+30,"no COI","pro","replicability",95
+31,"no COI","pro","study",5
+31,"no COI","pro","journal",5
+31,"no COI","pro","company",6
+31,"no COI","pro","authors",6
+31,"no COI","pro","replicability",70
+32,"no COI","con","study",5
+32,"no COI","con","journal",4
+32,"no COI","con","company",3
+32,"no COI","con","authors",5
+32,"no COI","con","replicability",60
+33,"COI","pro","study",3
+33,"COI","pro","journal",3
+33,"COI","pro","company",4
+33,"COI","pro","authors",3
+33,"COI","pro","replicability",50
+34,"no COI","con","study",5
+34,"no COI","con","journal",4
+34,"no COI","con","company",4
+34,"no COI","con","authors",5
+34,"no COI","con","replicability",70
+35,"no COI","pro","study",6
+35,"no COI","pro","journal",6
+35,"no COI","pro","company",6
+35,"no COI","pro","authors",6
+35,"no COI","pro","replicability",90
+36,"no COI","pro","study",6
+36,"no COI","pro","journal",7
+36,"no COI","pro","company",6
+36,"no COI","pro","authors",7
+36,"no COI","pro","replicability",95
+37,"no COI","con","study",5
+37,"no COI","con","journal",6
+37,"no COI","con","company",5
+37,"no COI","con","authors",6
+37,"no COI","con","replicability",65
+38,"COI","pro","study",5
+38,"COI","pro","journal",4
+38,"COI","pro","company",5
+38,"COI","pro","authors",5
+38,"COI","pro","replicability",60
+39,"no COI","pro","study",6
+39,"no COI","pro","journal",5
+39,"no COI","pro","company",5
+39,"no COI","pro","authors",6
+39,"no COI","pro","replicability",80
+40,"no COI","pro","study",6
+40,"no COI","pro","journal",6
+40,"no COI","pro","company",4
+40,"no COI","pro","authors",6
+40,"no COI","pro","replicability",80
+41,"COI","pro","study",5
+41,"COI","pro","journal",6
+41,"COI","pro","company",3
+41,"COI","pro","authors",6
+41,"COI","pro","replicability",60
+42,"no COI","pro","study",6
+42,"no COI","pro","journal",7
+42,"no COI","pro","company",6
+42,"no COI","pro","authors",6
+42,"no COI","pro","replicability",98
+43,"COI","pro","study",5
+43,"COI","pro","journal",5
+43,"COI","pro","company",5
+43,"COI","pro","authors",5
+43,"COI","pro","replicability",80
+44,"COI","pro","study",3
+44,"COI","pro","journal",4
+44,"COI","pro","company",5
+44,"COI","pro","authors",3
+44,"COI","pro","replicability",50
+45,"no COI","con","study",6
+45,"no COI","con","journal",6
+45,"no COI","con","company",6
+45,"no COI","con","authors",6
+45,"no COI","con","replicability",95
+46,"no COI","con","study",6
+46,"no COI","con","journal",4
+46,"no COI","con","company",6
+46,"no COI","con","authors",6
+46,"no COI","con","replicability",87
+47,"COI","con","study",6
+47,"COI","con","journal",6
+47,"COI","con","company",4
+47,"COI","con","authors",6
+47,"COI","con","replicability",80
+48,"no COI","pro","study",4
+48,"no COI","pro","journal",3
+48,"no COI","pro","company",3
+48,"no COI","pro","authors",4
+48,"no COI","pro","replicability",67
+49,"COI","pro","study",7
+49,"COI","pro","journal",6
+49,"COI","pro","company",7
+49,"COI","pro","authors",6
+49,"COI","pro","replicability",79
+50,"COI","con","study",6
+50,"COI","con","journal",6
+50,"COI","con","company",3
+50,"COI","con","authors",6
+50,"COI","con","replicability",85
+51,"COI","con","study",6
+51,"COI","con","journal",7
+51,"COI","con","company",6
+51,"COI","con","authors",5
+51,"COI","con","replicability",85
+53,"no COI","con","study",6
+53,"no COI","con","journal",6
+53,"no COI","con","company",5
+53,"no COI","con","authors",6
+53,"no COI","con","replicability",100
+54,"no COI","pro","study",6
+54,"no COI","pro","journal",6
+54,"no COI","pro","company",6
+54,"no COI","pro","authors",6
+54,"no COI","pro","replicability",75
+55,"COI","pro","study",6
+55,"COI","pro","journal",6
+55,"COI","pro","company",4
+55,"COI","pro","authors",6
+55,"COI","pro","replicability",75
+56,"no COI","con","study",6
+56,"no COI","con","journal",6
+56,"no COI","con","company",4
+56,"no COI","con","authors",6
+56,"no COI","con","replicability",80
+57,"COI","con","study",5
+57,"COI","con","journal",5
+57,"COI","con","company",5
+57,"COI","con","authors",5
+57,"COI","con","replicability",30
+58,"no COI","pro","study",5
+58,"no COI","pro","journal",6
+58,"no COI","pro","company",6
+58,"no COI","pro","authors",5
+58,"no COI","pro","replicability",70
+59,"COI","con","study",5
+59,"COI","con","journal",5
+59,"COI","con","company",5
+59,"COI","con","authors",5
+59,"COI","con","replicability",50
+60,"COI","pro","study",4
+60,"COI","pro","journal",4
+60,"COI","pro","company",4
+60,"COI","pro","authors",4
+60,"COI","pro","replicability",70
+62,"COI","pro","study",2
+62,"COI","pro","journal",5
+62,"COI","pro","company",4
+62,"COI","pro","authors",3
+62,"COI","pro","replicability",50
+63,"no COI","pro","study",5
+63,"no COI","pro","journal",4
+63,"no COI","pro","company",4
+63,"no COI","pro","authors",4
+63,"no COI","pro","replicability",65
+64,"no COI","pro","study",5
+64,"no COI","pro","journal",4
+64,"no COI","pro","company",4
+64,"no COI","pro","authors",4
+64,"no COI","pro","replicability",60
+65,"no COI","con","study",6
+65,"no COI","con","journal",4
+65,"no COI","con","company",5
+65,"no COI","con","authors",7
+65,"no COI","con","replicability",94
+66,"no COI","pro","study",5
+66,"no COI","pro","journal",6
+66,"no COI","pro","company",5
+66,"no COI","pro","authors",5
+66,"no COI","pro","replicability",80
+69,"COI","pro","study",6
+69,"COI","pro","journal",6
+69,"COI","pro","company",4
+69,"COI","pro","authors",5
+69,"COI","pro","replicability",75
+71,"no COI","con","study",6
+71,"no COI","con","journal",6
+71,"no COI","con","company",1
+71,"no COI","con","authors",6
+71,"no COI","con","replicability",70
+72,"no COI","con","study",5
+72,"no COI","con","journal",5
+72,"no COI","con","company",4
+72,"no COI","con","authors",5
+72,"no COI","con","replicability",70
+73,"no COI","pro","study",5
+73,"no COI","pro","journal",6
+73,"no COI","pro","company",6
+73,"no COI","pro","authors",5
+73,"no COI","pro","replicability",65
+74,"no COI","con","study",6
+74,"no COI","con","journal",6
+74,"no COI","con","company",4
+74,"no COI","con","authors",6
+74,"no COI","con","replicability",80
+75,"no COI","pro","study",6
+75,"no COI","pro","journal",6
+75,"no COI","pro","company",5
+75,"no COI","pro","authors",6
+75,"no COI","pro","replicability",80
+76,"COI","pro","study",4
+76,"COI","pro","journal",5
+76,"COI","pro","company",4
+76,"COI","pro","authors",4
+76,"COI","pro","replicability",50
+77,"COI","pro","study",5
+77,"COI","pro","journal",5
+77,"COI","pro","company",6
+77,"COI","pro","authors",6
+77,"COI","pro","replicability",80
+78,"no COI","con","study",6
+78,"no COI","con","journal",6
+78,"no COI","con","company",3
+78,"no COI","con","authors",6
+78,"no COI","con","replicability",80
+79,"COI","pro","study",5
+79,"COI","pro","journal",6
+79,"COI","pro","company",4
+79,"COI","pro","authors",5
+79,"COI","pro","replicability",75
+80,"COI","con","study",6
+80,"COI","con","journal",6
+80,"COI","con","company",6
+80,"COI","con","authors",6
+80,"COI","con","replicability",50
+81,"no COI","con","study",5
+81,"no COI","con","journal",3
+81,"no COI","con","company",3
+81,"no COI","con","authors",4
+81,"no COI","con","replicability",100
+83,"COI","pro","study",3
+83,"COI","pro","journal",5
+83,"COI","pro","company",3
+83,"COI","pro","authors",3
+83,"COI","pro","replicability",40
+84,"no COI","con","study",7
+84,"no COI","con","journal",6
+84,"no COI","con","company",6
+84,"no COI","con","authors",7
+84,"no COI","con","replicability",90
+85,"no COI","pro","study",6
+85,"no COI","pro","journal",6
+85,"no COI","pro","company",6
+85,"no COI","pro","authors",6
+85,"no COI","pro","replicability",90
+86,"no COI","pro","study",6
+86,"no COI","pro","journal",6
+86,"no COI","pro","company",6
+86,"no COI","pro","authors",6
+86,"no COI","pro","replicability",90
+87,"COI","pro","study",5
+87,"COI","pro","journal",6
+87,"COI","pro","company",4
+87,"COI","pro","authors",5
+87,"COI","pro","replicability",60
+88,"no COI","pro","study",5
+88,"no COI","pro","journal",5
+88,"no COI","pro","company",5
+88,"no COI","pro","authors",4
+88,"no COI","pro","replicability",70
+89,"COI","pro","study",1
+89,"COI","pro","journal",4
+89,"COI","pro","company",4
+89,"COI","pro","authors",4
+89,"COI","pro","replicability",50
+91,"COI","con","study",6
+91,"COI","con","journal",6
+91,"COI","con","company",5
+91,"COI","con","authors",6
+91,"COI","con","replicability",90
+92,"no COI","con","study",5
+92,"no COI","con","journal",4
+92,"no COI","con","company",4
+92,"no COI","con","authors",5
+92,"no COI","con","replicability",80
+93,"COI","pro","study",1
+93,"COI","pro","journal",1
+93,"COI","pro","company",1
+93,"COI","pro","authors",1
+93,"COI","pro","replicability",10
+96,"COI","con","study",6
+96,"COI","con","journal",6
+96,"COI","con","company",5
+96,"COI","con","authors",6
+96,"COI","con","replicability",70
+97,"no COI","pro","study",5
+97,"no COI","pro","journal",5
+97,"no COI","pro","company",5
+97,"no COI","pro","authors",5
+97,"no COI","pro","replicability",80
+98,"COI","con","study",6
+98,"COI","con","journal",5
+98,"COI","con","company",4
+98,"COI","con","authors",6
+98,"COI","con","replicability",60
+99,"no COI","con","study",5
+99,"no COI","con","journal",6
+99,"no COI","con","company",4
+99,"no COI","con","authors",6
+99,"no COI","con","replicability",70
+100,"no COI","con","study",6
+100,"no COI","con","journal",6
+100,"no COI","con","company",3
+100,"no COI","con","authors",6
+100,"no COI","con","replicability",50
+101,"COI","pro","study",5
+101,"COI","pro","journal",6
+101,"COI","pro","company",5
+101,"COI","pro","authors",5
+101,"COI","pro","replicability",70
+102,"no COI","pro","study",5
+102,"no COI","pro","journal",6
+102,"no COI","pro","company",4
+102,"no COI","pro","authors",5
+102,"no COI","pro","replicability",60
+103,"no COI","con","study",6
+103,"no COI","con","journal",6
+103,"no COI","con","company",5
+103,"no COI","con","authors",6
+103,"no COI","con","replicability",90
+104,"no COI","con","study",5
+104,"no COI","con","journal",5
+104,"no COI","con","company",5
+104,"no COI","con","authors",5
+104,"no COI","con","replicability",65
+105,"COI","pro","study",3
+105,"COI","pro","journal",5
+105,"COI","pro","company",3
+105,"COI","pro","authors",3
+105,"COI","pro","replicability",65
+107,"COI","pro","study",6
+107,"COI","pro","journal",6
+107,"COI","pro","company",4
+107,"COI","pro","authors",6
+107,"COI","pro","replicability",80
+108,"no COI","pro","study",6
+108,"no COI","pro","journal",6
+108,"no COI","pro","company",5
+108,"no COI","pro","authors",6
+108,"no COI","pro","replicability",60
+109,"no COI","pro","study",5
+109,"no COI","pro","journal",5
+109,"no COI","pro","company",5
+109,"no COI","pro","authors",5
+109,"no COI","pro","replicability",80
+110,"no COI","pro","study",6
+110,"no COI","pro","journal",4
+110,"no COI","pro","company",4
+110,"no COI","pro","authors",6
+110,"no COI","pro","replicability",80
+112,"COI","con","study",5
+112,"COI","con","journal",5
+112,"COI","con","company",4
+112,"COI","con","authors",5
+112,"COI","con","replicability",55
+113,"no COI","con","study",5
+113,"no COI","con","journal",5
+113,"no COI","con","company",5
+113,"no COI","con","authors",4
+113,"no COI","con","replicability",70
+114,"COI","con","study",6
+114,"COI","con","journal",5
+114,"COI","con","company",4
+114,"COI","con","authors",6
+114,"COI","con","replicability",95
+116,"COI","con","study",4
+116,"COI","con","journal",5
+116,"COI","con","company",4
+116,"COI","con","authors",5
+116,"COI","con","replicability",40
+117,"no COI","con","study",6
+117,"no COI","con","journal",6
+117,"no COI","con","company",6
+117,"no COI","con","authors",6
+117,"no COI","con","replicability",80
+118,"COI","pro","study",4
+118,"COI","pro","journal",6
+118,"COI","pro","company",4
+118,"COI","pro","authors",4
+118,"COI","pro","replicability",50
+119,"COI","pro","study",2
+119,"COI","pro","journal",6
+119,"COI","pro","company",4
+119,"COI","pro","authors",3
+119,"COI","pro","replicability",40
+120,"no COI","con","study",6
+120,"no COI","con","journal",6
+120,"no COI","con","company",5
+120,"no COI","con","authors",6
+120,"no COI","con","replicability",95
+121,"COI","con","study",4
+121,"COI","con","journal",4
+121,"COI","con","company",4
+121,"COI","con","authors",4
+121,"COI","con","replicability",50
+122,"no COI","con","study",6
+122,"no COI","con","journal",7
+122,"no COI","con","company",4
+122,"no COI","con","authors",7
+122,"no COI","con","replicability",75
+123,"COI","pro","study",5
+123,"COI","pro","journal",4
+123,"COI","pro","company",3
+123,"COI","pro","authors",4
+123,"COI","pro","replicability",45
+124,"COI","con","study",6
+124,"COI","con","journal",7
+124,"COI","con","company",3
+124,"COI","con","authors",7
+124,"COI","con","replicability",60
+125,"COI","con","study",6
+125,"COI","con","journal",6
+125,"COI","con","company",5
+125,"COI","con","authors",6
+125,"COI","con","replicability",90
+127,"COI","con","study",5
+127,"COI","con","journal",5
+127,"COI","con","company",5
+127,"COI","con","authors",5
+127,"COI","con","replicability",75
+128,"COI","pro","study",3
+128,"COI","pro","journal",5
+128,"COI","pro","company",4
+128,"COI","pro","authors",3
+128,"COI","pro","replicability",40
+129,"no COI","pro","study",5
+129,"no COI","pro","journal",6
+129,"no COI","pro","company",5
+129,"no COI","pro","authors",5
+129,"no COI","pro","replicability",75
+130,"COI","con","study",3
+130,"COI","con","journal",5
+130,"COI","con","company",3
+130,"COI","con","authors",4
+130,"COI","con","replicability",50
+134,"COI","con","study",4
+134,"COI","con","journal",4
+134,"COI","con","company",4
+134,"COI","con","authors",4
+134,"COI","con","replicability",50
+135,"no COI","con","study",5
+135,"no COI","con","journal",4
+135,"no COI","con","company",4
+135,"no COI","con","authors",5
+135,"no COI","con","replicability",45
+136,"COI","con","study",6
+136,"COI","con","journal",6
+136,"COI","con","company",4
+136,"COI","con","authors",6
+136,"COI","con","replicability",90
+137,"COI","pro","study",1
+137,"COI","pro","journal",1
+137,"COI","pro","company",1
+137,"COI","pro","authors",1
+137,"COI","pro","replicability",50
+138,"COI","pro","study",5
+138,"COI","pro","journal",5
+138,"COI","pro","company",5
+138,"COI","pro","authors",5
+138,"COI","pro","replicability",75
+139,"no COI","pro","study",5
+139,"no COI","pro","journal",5
+139,"no COI","pro","company",5
+139,"no COI","pro","authors",5
+139,"no COI","pro","replicability",65
+140,"no COI","pro","study",6
+140,"no COI","pro","journal",6
+140,"no COI","pro","company",6
+140,"no COI","pro","authors",5
+140,"no COI","pro","replicability",75
+141,"no COI","pro","study",3
+141,"no COI","pro","journal",4
+141,"no COI","pro","company",3
+141,"no COI","pro","authors",4
+141,"no COI","pro","replicability",50
+142,"COI","pro","study",4
+142,"COI","pro","journal",5
+142,"COI","pro","company",4
+142,"COI","pro","authors",4
+142,"COI","pro","replicability",60
+143,"COI","con","study",5
+143,"COI","con","journal",4
+143,"COI","con","company",4
+143,"COI","con","authors",4
+143,"COI","con","replicability",67
+144,"no COI","pro","study",6
+144,"no COI","pro","journal",4
+144,"no COI","pro","company",5
+144,"no COI","pro","authors",7
+144,"no COI","pro","replicability",95
+145,"COI","pro","study",4
+145,"COI","pro","journal",4
+145,"COI","pro","company",4
+145,"COI","pro","authors",4
+145,"COI","pro","replicability",50
+146,"COI","pro","study",3
+146,"COI","pro","journal",6
+146,"COI","pro","company",4
+146,"COI","pro","authors",4
+146,"COI","pro","replicability",40
+147,"COI","con","study",6
+147,"COI","con","journal",6
+147,"COI","con","company",5
+147,"COI","con","authors",6
+147,"COI","con","replicability",80
+148,"no COI","pro","study",4
+148,"no COI","pro","journal",4
+148,"no COI","pro","company",4
+148,"no COI","pro","authors",4
+148,"no COI","pro","replicability",65
+149,"no COI","pro","study",6
+149,"no COI","pro","journal",6
+149,"no COI","pro","company",5
+149,"no COI","pro","authors",5
+149,"no COI","pro","replicability",80
+151,"COI","pro","study",5
+151,"COI","pro","journal",5
+151,"COI","pro","company",5
+151,"COI","pro","authors",4
+151,"COI","pro","replicability",50
+152,"COI","con","study",6
+152,"COI","con","journal",6
+152,"COI","con","company",4
+152,"COI","con","authors",6
+152,"COI","con","replicability",60
+153,"no COI","pro","study",6
+153,"no COI","pro","journal",4
+153,"no COI","pro","company",4
+153,"no COI","pro","authors",5
+153,"no COI","pro","replicability",60
+154,"no COI","con","study",4
+154,"no COI","con","journal",4
+154,"no COI","con","company",2
+154,"no COI","con","authors",4
+154,"no COI","con","replicability",50
+156,"COI","con","study",3
+156,"COI","con","journal",2
+156,"COI","con","company",2
+156,"COI","con","authors",3
+156,"COI","con","replicability",25
+157,"no COI","pro","study",3
+157,"no COI","pro","journal",4
+157,"no COI","pro","company",4
+157,"no COI","pro","authors",4
+157,"no COI","pro","replicability",65
+158,"no COI","con","study",2
+158,"no COI","con","journal",2
+158,"no COI","con","company",3
+158,"no COI","con","authors",3
+158,"no COI","con","replicability",75
+159,"COI","con","study",5
+159,"COI","con","journal",4
+159,"COI","con","company",4
+159,"COI","con","authors",4
+159,"COI","con","replicability",60
+160,"COI","con","study",3
+160,"COI","con","journal",3
+160,"COI","con","company",3
+160,"COI","con","authors",5
+160,"COI","con","replicability",35
+161,"no COI","pro","study",5
+161,"no COI","pro","journal",4
+161,"no COI","pro","company",5
+161,"no COI","pro","authors",5
+161,"no COI","pro","replicability",75
+163,"COI","pro","study",5
+163,"COI","pro","journal",5
+163,"COI","pro","company",4
+163,"COI","pro","authors",5
+163,"COI","pro","replicability",60
+164,"no COI","con","study",5
+164,"no COI","con","journal",4
+164,"no COI","con","company",4
+164,"no COI","con","authors",5
+164,"no COI","con","replicability",80
+165,"no COI","con","study",3
+165,"no COI","con","journal",4
+165,"no COI","con","company",4
+165,"no COI","con","authors",4
+165,"no COI","con","replicability",50
+166,"COI","pro","study",3
+166,"COI","pro","journal",4
+166,"COI","pro","company",4
+166,"COI","pro","authors",3
+166,"COI","pro","replicability",65
+167,"no COI","con","study",5
+167,"no COI","con","journal",5
+167,"no COI","con","company",5
+167,"no COI","con","authors",5
+167,"no COI","con","replicability",95
+169,"COI","pro","study",5
+169,"COI","pro","journal",5
+169,"COI","pro","company",5
+169,"COI","pro","authors",5
+169,"COI","pro","replicability",60
+170,"COI","con","study",7
+170,"COI","con","journal",7
+170,"COI","con","company",5
+170,"COI","con","authors",7
+170,"COI","con","replicability",90
+171,"no COI","con","study",6
+171,"no COI","con","journal",4
+171,"no COI","con","company",4
+171,"no COI","con","authors",4
+171,"no COI","con","replicability",75
+172,"COI","pro","study",5
+172,"COI","pro","journal",6
+172,"COI","pro","company",5
+172,"COI","pro","authors",5
+172,"COI","pro","replicability",75
+173,"COI","con","study",5
+173,"COI","con","journal",6
+173,"COI","con","company",4
+173,"COI","con","authors",6
+173,"COI","con","replicability",75
+174,"no COI","con","study",6
+174,"no COI","con","journal",6
+174,"no COI","con","company",5
+174,"no COI","con","authors",6
+174,"no COI","con","replicability",80
+175,"no COI","con","study",4
+175,"no COI","con","journal",5
+175,"no COI","con","company",3
+175,"no COI","con","authors",4
+175,"no COI","con","replicability",54
+176,"no COI","con","study",5
+176,"no COI","con","journal",5
+176,"no COI","con","company",5
+176,"no COI","con","authors",5
+176,"no COI","con","replicability",65
+177,"COI","pro","study",6
+177,"COI","pro","journal",6
+177,"COI","pro","company",3
+177,"COI","pro","authors",6
+177,"COI","pro","replicability",70
+179,"COI","con","study",7
+179,"COI","con","journal",4
+179,"COI","con","company",6
+179,"COI","con","authors",6
+179,"COI","con","replicability",90
+180,"COI","con","study",6
+180,"COI","con","journal",6
+180,"COI","con","company",5
+180,"COI","con","authors",6
+180,"COI","con","replicability",85
+181,"COI","pro","study",5
+181,"COI","pro","journal",4
+181,"COI","pro","company",4
+181,"COI","pro","authors",4
+181,"COI","pro","replicability",80
+182,"no COI","con","study",5
+182,"no COI","con","journal",5
+182,"no COI","con","company",5
+182,"no COI","con","authors",5
+182,"no COI","con","replicability",50
+183,"no COI","pro","study",5
+183,"no COI","pro","journal",5
+183,"no COI","pro","company",5
+183,"no COI","pro","authors",5
+183,"no COI","pro","replicability",65
+185,"no COI","pro","study",6
+185,"no COI","pro","journal",6
+185,"no COI","pro","company",6
+185,"no COI","pro","authors",6
+185,"no COI","pro","replicability",80
+186,"no COI","con","study",6
+186,"no COI","con","journal",5
+186,"no COI","con","company",6
+186,"no COI","con","authors",5
+186,"no COI","con","replicability",60
+187,"no COI","con","study",6
+187,"no COI","con","journal",6
+187,"no COI","con","company",4
+187,"no COI","con","authors",6
+187,"no COI","con","replicability",60
+188,"no COI","pro","study",6
+188,"no COI","pro","journal",6
+188,"no COI","pro","company",5
+188,"no COI","pro","authors",6
+188,"no COI","pro","replicability",80
+189,"no COI","con","study",5
+189,"no COI","con","journal",6
+189,"no COI","con","company",6
+189,"no COI","con","authors",6
+189,"no COI","con","replicability",80
+190,"COI","pro","study",5
+190,"COI","pro","journal",5
+190,"COI","pro","company",5
+190,"COI","pro","authors",5
+190,"COI","pro","replicability",80
+193,"no COI","pro","study",4
+193,"no COI","pro","journal",4
+193,"no COI","pro","company",4
+193,"no COI","pro","authors",4
+193,"no COI","pro","replicability",50
+194,"COI","con","study",6
+194,"COI","con","journal",7
+194,"COI","con","company",4
+194,"COI","con","authors",6
+194,"COI","con","replicability",75
+195,"no COI","pro","study",6
+195,"no COI","pro","journal",5
+195,"no COI","pro","company",6
+195,"no COI","pro","authors",5
+195,"no COI","pro","replicability",85
+196,"COI","pro","study",6
+196,"COI","pro","journal",7
+196,"COI","pro","company",6
+196,"COI","pro","authors",6
+196,"COI","pro","replicability",75
+197,"COI","con","study",6
+197,"COI","con","journal",6
+197,"COI","con","company",4
+197,"COI","con","authors",6
+197,"COI","con","replicability",85
+198,"no COI","pro","study",5
+198,"no COI","pro","journal",5
+198,"no COI","pro","company",6
+198,"no COI","pro","authors",5
+198,"no COI","pro","replicability",85
+199,"COI","con","study",6
+199,"COI","con","journal",5
+199,"COI","con","company",5
+199,"COI","con","authors",5
+199,"COI","con","replicability",100
+200,"COI","pro","study",2
+200,"COI","pro","journal",4
+200,"COI","pro","company",4
+200,"COI","pro","authors",4
+200,"COI","pro","replicability",50
+201,"no COI","pro","study",6
+201,"no COI","pro","journal",6
+201,"no COI","pro","company",6
+201,"no COI","pro","authors",6
+201,"no COI","pro","replicability",85
+202,"no COI","pro","study",5
+202,"no COI","pro","journal",4
+202,"no COI","pro","company",4
+202,"no COI","pro","authors",4
+202,"no COI","pro","replicability",70
+203,"no COI","con","study",7
+203,"no COI","con","journal",7
+203,"no COI","con","company",6
+203,"no COI","con","authors",7
+203,"no COI","con","replicability",95
+205,"COI","con","study",5
+205,"COI","con","journal",4
+205,"COI","con","company",4
+205,"COI","con","authors",5
+205,"COI","con","replicability",40
+206,"no COI","con","study",6
+206,"no COI","con","journal",6
+206,"no COI","con","company",4
+206,"no COI","con","authors",6
+206,"no COI","con","replicability",75
+207,"COI","con","study",6
+207,"COI","con","journal",6
+207,"COI","con","company",5
+207,"COI","con","authors",6
+207,"COI","con","replicability",80
+208,"COI","con","study",5
+208,"COI","con","journal",5
+208,"COI","con","company",5
+208,"COI","con","authors",5
+208,"COI","con","replicability",75
+209,"COI","pro","study",6
+209,"COI","pro","journal",5
+209,"COI","pro","company",5
+209,"COI","pro","authors",5
+209,"COI","pro","replicability",75
+210,"COI","pro","study",4
+210,"COI","pro","journal",5
+210,"COI","pro","company",4
+210,"COI","pro","authors",6
+210,"COI","pro","replicability",50
+211,"no COI","pro","study",6
+211,"no COI","pro","journal",6
+211,"no COI","pro","company",6
+211,"no COI","pro","authors",5
+211,"no COI","pro","replicability",95
+212,"no COI","pro","study",4
+212,"no COI","pro","journal",5
+212,"no COI","pro","company",5
+212,"no COI","pro","authors",5
+212,"no COI","pro","replicability",90
+213,"no COI","con","study",6
+213,"no COI","con","journal",7
+213,"no COI","con","company",6
+213,"no COI","con","authors",6
+213,"no COI","con","replicability",100
+214,"no COI","pro","study",6
+214,"no COI","pro","journal",6
+214,"no COI","pro","company",4
+214,"no COI","pro","authors",6
+214,"no COI","pro","replicability",80
+215,"no COI","pro","study",5
+215,"no COI","pro","journal",4
+215,"no COI","pro","company",4
+215,"no COI","pro","authors",4
+215,"no COI","pro","replicability",50
+216,"COI","pro","study",3
+216,"COI","pro","journal",5
+216,"COI","pro","company",4
+216,"COI","pro","authors",3
+216,"COI","pro","replicability",50
+217,"COI","con","study",4
+217,"COI","con","journal",4
+217,"COI","con","company",5
+217,"COI","con","authors",3
+217,"COI","con","replicability",30
+219,"COI","pro","study",5
+219,"COI","pro","journal",5
+219,"COI","pro","company",5
+219,"COI","pro","authors",4
+219,"COI","pro","replicability",30
+220,"COI","pro","study",6
+220,"COI","pro","journal",6
+220,"COI","pro","company",5
+220,"COI","pro","authors",6
+220,"COI","pro","replicability",70
+221,"no COI","pro","study",5
+221,"no COI","pro","journal",5
+221,"no COI","pro","company",5
+221,"no COI","pro","authors",4
+221,"no COI","pro","replicability",60
+222,"no COI","pro","study",5
+222,"no COI","pro","journal",4
+222,"no COI","pro","company",4
+222,"no COI","pro","authors",4
+222,"no COI","pro","replicability",95
+223,"no COI","con","study",6
+223,"no COI","con","journal",6
+223,"no COI","con","company",4
+223,"no COI","con","authors",6
+223,"no COI","con","replicability",80
+224,"no COI","pro","study",6
+224,"no COI","pro","journal",6
+224,"no COI","pro","company",6
+224,"no COI","pro","authors",6
+224,"no COI","pro","replicability",85
+225,"COI","con","study",6
+225,"COI","con","journal",6
+225,"COI","con","company",6
+225,"COI","con","authors",7
+225,"COI","con","replicability",85
+226,"COI","pro","study",4
+226,"COI","pro","journal",4
+226,"COI","pro","company",4
+226,"COI","pro","authors",4
+226,"COI","pro","replicability",50
+227,"COI","pro","study",6
+227,"COI","pro","journal",6
+227,"COI","pro","company",6
+227,"COI","pro","authors",6
+227,"COI","pro","replicability",90
+228,"no COI","pro","study",6
+228,"no COI","pro","journal",6
+228,"no COI","pro","company",6
+228,"no COI","pro","authors",6
+228,"no COI","pro","replicability",60
+229,"COI","pro","study",5
+229,"COI","pro","journal",5
+229,"COI","pro","company",5
+229,"COI","pro","authors",5
+229,"COI","pro","replicability",60
+230,"no COI","pro","study",7
+230,"no COI","pro","journal",7
+230,"no COI","pro","company",7
+230,"no COI","pro","authors",7
+230,"no COI","pro","replicability",80
+231,"no COI","con","study",6
+231,"no COI","con","journal",6
+231,"no COI","con","company",6
+231,"no COI","con","authors",6
+231,"no COI","con","replicability",75
+232,"COI","pro","study",6
+232,"COI","pro","journal",6
+232,"COI","pro","company",5
+232,"COI","pro","authors",2
+232,"COI","pro","replicability",100
+233,"COI","pro","study",6
+233,"COI","pro","journal",5
+233,"COI","pro","company",3
+233,"COI","pro","authors",5
+233,"COI","pro","replicability",40
+235,"no COI","con","study",7
+235,"no COI","con","journal",6
+235,"no COI","con","company",6
+235,"no COI","con","authors",6
+235,"no COI","con","replicability",90
+236,"no COI","con","study",6
+236,"no COI","con","journal",5
+236,"no COI","con","company",5
+236,"no COI","con","authors",5
+236,"no COI","con","replicability",80
+237,"COI","con","study",3
+237,"COI","con","journal",3
+237,"COI","con","company",3
+237,"COI","con","authors",4
+237,"COI","con","replicability",30
+238,"no COI","pro","study",6
+238,"no COI","pro","journal",5
+238,"no COI","pro","company",5
+238,"no COI","pro","authors",6
+238,"no COI","pro","replicability",90
+240,"no COI","con","study",6
+240,"no COI","con","journal",4
+240,"no COI","con","company",4
+240,"no COI","con","authors",4
+240,"no COI","con","replicability",85
+242,"no COI","con","study",6
+242,"no COI","con","journal",7
+242,"no COI","con","company",5
+242,"no COI","con","authors",6
+242,"no COI","con","replicability",80
+243,"no COI","pro","study",5
+243,"no COI","pro","journal",5
+243,"no COI","pro","company",5
+243,"no COI","pro","authors",5
+243,"no COI","pro","replicability",75
+244,"no COI","con","study",6
+244,"no COI","con","journal",6
+244,"no COI","con","company",4
+244,"no COI","con","authors",6
+244,"no COI","con","replicability",75
+245,"COI","pro","study",3
+245,"COI","pro","journal",5
+245,"COI","pro","company",5
+245,"COI","pro","authors",5
+245,"COI","pro","replicability",64
+246,"COI","pro","study",5
+246,"COI","pro","journal",4
+246,"COI","pro","company",4
+246,"COI","pro","authors",5
+246,"COI","pro","replicability",70
+247,"COI","con","study",6
+247,"COI","con","journal",6
+247,"COI","con","company",6
+247,"COI","con","authors",7
+247,"COI","con","replicability",50
+248,"COI","con","study",5
+248,"COI","con","journal",5
+248,"COI","con","company",5
+248,"COI","con","authors",6
+248,"COI","con","replicability",75
+249,"COI","pro","study",2
+249,"COI","pro","journal",3
+249,"COI","pro","company",3
+249,"COI","pro","authors",3
+249,"COI","pro","replicability",40
+251,"COI","con","study",5
+251,"COI","con","journal",5
+251,"COI","con","company",5
+251,"COI","con","authors",5
+251,"COI","con","replicability",80
+252,"COI","pro","study",6
+252,"COI","pro","journal",5
+252,"COI","pro","company",5
+252,"COI","pro","authors",6
+252,"COI","pro","replicability",65
+253,"no COI","con","study",5
+253,"no COI","con","journal",5
+253,"no COI","con","company",5
+253,"no COI","con","authors",5
+253,"no COI","con","replicability",85
+254,"no COI","con","study",6
+254,"no COI","con","journal",6
+254,"no COI","con","company",4
+254,"no COI","con","authors",6
+254,"no COI","con","replicability",80
+255,"COI","pro","study",4
+255,"COI","pro","journal",4
+255,"COI","pro","company",4
+255,"COI","pro","authors",4
+255,"COI","pro","replicability",50
+256,"no COI","con","study",5
+256,"no COI","con","journal",5
+256,"no COI","con","company",5
+256,"no COI","con","authors",5
+256,"no COI","con","replicability",50
+257,"no COI","pro","study",5
+257,"no COI","pro","journal",5
+257,"no COI","pro","company",3
+257,"no COI","pro","authors",4
+257,"no COI","pro","replicability",65
+258,"no COI","con","study",5
+258,"no COI","con","journal",5
+258,"no COI","con","company",4
+258,"no COI","con","authors",5
+258,"no COI","con","replicability",90
+259,"COI","con","study",6
+259,"COI","con","journal",6
+259,"COI","con","company",6
+259,"COI","con","authors",6
+259,"COI","con","replicability",80
+262,"no COI","con","study",5
+262,"no COI","con","journal",5
+262,"no COI","con","company",5
+262,"no COI","con","authors",5
+262,"no COI","con","replicability",75
+263,"COI","con","study",6
+263,"COI","con","journal",6
+263,"COI","con","company",3
+263,"COI","con","authors",6
+263,"COI","con","replicability",85
+264,"no COI","con","study",6
+264,"no COI","con","journal",6
+264,"no COI","con","company",5
+264,"no COI","con","authors",6
+264,"no COI","con","replicability",90
+266,"no COI","pro","study",3
+266,"no COI","pro","journal",4
+266,"no COI","pro","company",5
+266,"no COI","pro","authors",4
+266,"no COI","pro","replicability",30
+267,"no COI","con","study",6
+267,"no COI","con","journal",4
+267,"no COI","con","company",4
+267,"no COI","con","authors",4
+267,"no COI","con","replicability",60
+268,"COI","con","study",6
+268,"COI","con","journal",6
+268,"COI","con","company",6
+268,"COI","con","authors",6
+268,"COI","con","replicability",60
+269,"no COI","pro","study",6
+269,"no COI","pro","journal",6
+269,"no COI","pro","company",6
+269,"no COI","pro","authors",6
+269,"no COI","pro","replicability",100
+270,"no COI","con","study",5
+270,"no COI","con","journal",5
+270,"no COI","con","company",4
+270,"no COI","con","authors",5
+270,"no COI","con","replicability",75
+271,"COI","pro","study",3
+271,"COI","pro","journal",4
+271,"COI","pro","company",4
+271,"COI","pro","authors",4
+271,"COI","pro","replicability",45
+272,"no COI","pro","study",6
+272,"no COI","pro","journal",6
+272,"no COI","pro","company",6
+272,"no COI","pro","authors",6
+272,"no COI","pro","replicability",75
+273,"no COI","con","study",6
+273,"no COI","con","journal",6
+273,"no COI","con","company",6
+273,"no COI","con","authors",6
+273,"no COI","con","replicability",50
+274,"no COI","con","study",3
+274,"no COI","con","journal",4
+274,"no COI","con","company",4
+274,"no COI","con","authors",4
+274,"no COI","con","replicability",50
+275,"no COI","pro","study",5
+275,"no COI","pro","journal",5
+275,"no COI","pro","company",2
+275,"no COI","pro","authors",3
+275,"no COI","pro","replicability",55
+276,"no COI","con","study",5
+276,"no COI","con","journal",4
+276,"no COI","con","company",3
+276,"no COI","con","authors",4
+276,"no COI","con","replicability",40
+277,"COI","pro","study",6
+277,"COI","pro","journal",5
+277,"COI","pro","company",4
+277,"COI","pro","authors",6
+277,"COI","pro","replicability",80
+278,"no COI","con","study",6
+278,"no COI","con","journal",5
+278,"no COI","con","company",3
+278,"no COI","con","authors",6
+278,"no COI","con","replicability",75
+279,"COI","pro","study",4
+279,"COI","pro","journal",4
+279,"COI","pro","company",4
+279,"COI","pro","authors",4
+279,"COI","pro","replicability",50
+280,"COI","pro","study",4
+280,"COI","pro","journal",4
+280,"COI","pro","company",4
+280,"COI","pro","authors",4
+280,"COI","pro","replicability",50
+281,"no COI","con","study",3
+281,"no COI","con","journal",5
+281,"no COI","con","company",4
+281,"no COI","con","authors",4
+281,"no COI","con","replicability",75
+283,"no COI","con","study",5
+283,"no COI","con","journal",6
+283,"no COI","con","company",5
+283,"no COI","con","authors",6
+283,"no COI","con","replicability",80
+284,"COI","con","study",5
+284,"COI","con","journal",4
+284,"COI","con","company",5
+284,"COI","con","authors",4
+284,"COI","con","replicability",50
+285,"no COI","pro","study",6
+285,"no COI","pro","journal",6
+285,"no COI","pro","company",6
+285,"no COI","pro","authors",6
+285,"no COI","pro","replicability",70
+286,"no COI","con","study",6
+286,"no COI","con","journal",5
+286,"no COI","con","company",6
+286,"no COI","con","authors",6
+286,"no COI","con","replicability",80
+288,"COI","pro","study",3
+288,"COI","pro","journal",5
+288,"COI","pro","company",4
+288,"COI","pro","authors",3
+288,"COI","pro","replicability",30
+289,"COI","con","study",6
+289,"COI","con","journal",6
+289,"COI","con","company",4
+289,"COI","con","authors",7
+289,"COI","con","replicability",90
+290,"no COI","con","study",5
+290,"no COI","con","journal",4
+290,"no COI","con","company",6
+290,"no COI","con","authors",3
+290,"no COI","con","replicability",60
+291,"COI","pro","study",4
+291,"COI","pro","journal",4
+291,"COI","pro","company",4
+291,"COI","pro","authors",4
+291,"COI","pro","replicability",50
+292,"no COI","pro","study",5
+292,"no COI","pro","journal",4
+292,"no COI","pro","company",4
+292,"no COI","pro","authors",4
+292,"no COI","pro","replicability",65
+294,"COI","con","study",2
+294,"COI","con","journal",2
+294,"COI","con","company",2
+294,"COI","con","authors",2
+294,"COI","con","replicability",0
+295,"COI","pro","study",5
+295,"COI","pro","journal",5
+295,"COI","pro","company",5
+295,"COI","pro","authors",5
+295,"COI","pro","replicability",75
+296,"no COI","con","study",4
+296,"no COI","con","journal",4
+296,"no COI","con","company",4
+296,"no COI","con","authors",4
+296,"no COI","con","replicability",75
+297,"no COI","pro","study",5
+297,"no COI","pro","journal",5
+297,"no COI","pro","company",5
+297,"no COI","pro","authors",5
+297,"no COI","pro","replicability",60
+298,"COI","con","study",7
+298,"COI","con","journal",7
+298,"COI","con","company",7
+298,"COI","con","authors",7
+298,"COI","con","replicability",90
+299,"no COI","pro","study",3
+299,"no COI","pro","journal",4
+299,"no COI","pro","company",4
+299,"no COI","pro","authors",3
+299,"no COI","pro","replicability",60
+300,"COI","pro","study",2
+300,"COI","pro","journal",2
+300,"COI","pro","company",4
+300,"COI","pro","authors",2
+300,"COI","pro","replicability",50
+301,"COI","con","study",6
+301,"COI","con","journal",5
+301,"COI","con","company",4
+301,"COI","con","authors",5
+301,"COI","con","replicability",80
+302,"COI","pro","study",7
+302,"COI","pro","journal",7
+302,"COI","pro","company",7
+302,"COI","pro","authors",7
+302,"COI","pro","replicability",40
+303,"COI","con","study",7
+303,"COI","con","journal",7
+303,"COI","con","company",1
+303,"COI","con","authors",7
+303,"COI","con","replicability",85
+304,"no COI","con","study",6
+304,"no COI","con","journal",5
+304,"no COI","con","company",4
+304,"no COI","con","authors",5
+304,"no COI","con","replicability",80
+305,"COI","con","study",6
+305,"COI","con","journal",6
+305,"COI","con","company",6
+305,"COI","con","authors",6
+305,"COI","con","replicability",90
+306,"no COI","pro","study",6
+306,"no COI","pro","journal",6
+306,"no COI","pro","company",6
+306,"no COI","pro","authors",6
+306,"no COI","pro","replicability",85
+307,"no COI","con","study",4
+307,"no COI","con","journal",4
+307,"no COI","con","company",4
+307,"no COI","con","authors",5
+307,"no COI","con","replicability",60
+308,"COI","pro","study",3
+308,"COI","pro","journal",5
+308,"COI","pro","company",4
+308,"COI","pro","authors",3
+308,"COI","pro","replicability",50
+309,"COI","con","study",7
+309,"COI","con","journal",7
+309,"COI","con","company",7
+309,"COI","con","authors",7
+309,"COI","con","replicability",95
+310,"COI","con","study",5
+310,"COI","con","journal",4
+310,"COI","con","company",4
+310,"COI","con","authors",5
+310,"COI","con","replicability",50
+311,"COI","con","study",5
+311,"COI","con","journal",6
+311,"COI","con","company",4
+311,"COI","con","authors",5
+311,"COI","con","replicability",75
+312,"no COI","con","study",5
+312,"no COI","con","journal",6
+312,"no COI","con","company",5
+312,"no COI","con","authors",6
+312,"no COI","con","replicability",80
+313,"COI","con","study",6
+313,"COI","con","journal",6
+313,"COI","con","company",6
+313,"COI","con","authors",6
+313,"COI","con","replicability",80
+314,"no COI","con","study",5
+314,"no COI","con","journal",4
+314,"no COI","con","company",3
+314,"no COI","con","authors",4
+314,"no COI","con","replicability",60
+315,"COI","con","study",7
+315,"COI","con","journal",7
+315,"COI","con","company",7
+315,"COI","con","authors",7
+315,"COI","con","replicability",35
+316,"COI","pro","study",4
+316,"COI","pro","journal",4
+316,"COI","pro","company",4
+316,"COI","pro","authors",4
+316,"COI","pro","replicability",50
+317,"no COI","pro","study",6
+317,"no COI","pro","journal",6
+317,"no COI","pro","company",6
+317,"no COI","pro","authors",6
+317,"no COI","pro","replicability",75
+318,"COI","pro","study",5
+318,"COI","pro","journal",6
+318,"COI","pro","company",5
+318,"COI","pro","authors",5
+318,"COI","pro","replicability",75
+321,"COI","pro","study",6
+321,"COI","pro","journal",6
+321,"COI","pro","company",6
+321,"COI","pro","authors",6
+321,"COI","pro","replicability",60
+322,"no COI","pro","study",6
+322,"no COI","pro","journal",6
+322,"no COI","pro","company",5
+322,"no COI","pro","authors",6
+322,"no COI","pro","replicability",70
+323,"COI","pro","study",5
+323,"COI","pro","journal",5
+323,"COI","pro","company",5
+323,"COI","pro","authors",5
+323,"COI","pro","replicability",33
+324,"no COI","pro","study",5
+324,"no COI","pro","journal",5
+324,"no COI","pro","company",5
+324,"no COI","pro","authors",5
+324,"no COI","pro","replicability",70
+325,"no COI","con","study",6
+325,"no COI","con","journal",6
+325,"no COI","con","company",4
+325,"no COI","con","authors",6
+325,"no COI","con","replicability",75
+326,"COI","con","study",4
+326,"COI","con","journal",4
+326,"COI","con","company",4
+326,"COI","con","authors",4
+326,"COI","con","replicability",10
+327,"no COI","pro","study",7
+327,"no COI","pro","journal",7
+327,"no COI","pro","company",5
+327,"no COI","pro","authors",7
+327,"no COI","pro","replicability",90
+329,"no COI","pro","study",5
+329,"no COI","pro","journal",5
+329,"no COI","pro","company",4
+329,"no COI","pro","authors",5
+329,"no COI","pro","replicability",80
+330,"COI","con","study",4
+330,"COI","con","journal",5
+330,"COI","con","company",4
+330,"COI","con","authors",5
+330,"COI","con","replicability",50
+331,"COI","pro","study",1
+331,"COI","pro","journal",3
+331,"COI","pro","company",2
+331,"COI","pro","authors",1
+331,"COI","pro","replicability",25
+332,"COI","con","study",5
+332,"COI","con","journal",4
+332,"COI","con","company",5
+332,"COI","con","authors",5
+332,"COI","con","replicability",60
+333,"no COI","con","study",5
+333,"no COI","con","journal",4
+333,"no COI","con","company",4
+333,"no COI","con","authors",6
+333,"no COI","con","replicability",50
+334,"no COI","con","study",6
+334,"no COI","con","journal",4
+334,"no COI","con","company",4
+334,"no COI","con","authors",6
+334,"no COI","con","replicability",80
+335,"no COI","con","study",4
+335,"no COI","con","journal",4
+335,"no COI","con","company",4
+335,"no COI","con","authors",4
+335,"no COI","con","replicability",30
+337,"no COI","con","study",6
+337,"no COI","con","journal",6
+337,"no COI","con","company",6
+337,"no COI","con","authors",6
+337,"no COI","con","replicability",70
+338,"no COI","con","study",4
+338,"no COI","con","journal",4
+338,"no COI","con","company",4
+338,"no COI","con","authors",4
+338,"no COI","con","replicability",75
+339,"COI","pro","study",4
+339,"COI","pro","journal",5
+339,"COI","pro","company",4
+339,"COI","pro","authors",4
+339,"COI","pro","replicability",70
+342,"COI","pro","study",4
+342,"COI","pro","journal",3
+342,"COI","pro","company",4
+342,"COI","pro","authors",4
+342,"COI","pro","replicability",30
+344,"COI","pro","study",3
+344,"COI","pro","journal",4
+344,"COI","pro","company",4
+344,"COI","pro","authors",4
+344,"COI","pro","replicability",50
+345,"COI","pro","study",5
+345,"COI","pro","journal",5
+345,"COI","pro","company",4
+345,"COI","pro","authors",4
+345,"COI","pro","replicability",70
+346,"COI","con","study",5
+346,"COI","con","journal",5
+346,"COI","con","company",4
+346,"COI","con","authors",5
+346,"COI","con","replicability",50
+347,"no COI","pro","study",4
+347,"no COI","pro","journal",4
+347,"no COI","pro","company",4
+347,"no COI","pro","authors",4
+347,"no COI","pro","replicability",50
+348,"COI","pro","study",4
+348,"COI","pro","journal",4
+348,"COI","pro","company",4
+348,"COI","pro","authors",4
+348,"COI","pro","replicability",50
+349,"no COI","pro","study",6
+349,"no COI","pro","journal",6
+349,"no COI","pro","company",5
+349,"no COI","pro","authors",6
+349,"no COI","pro","replicability",95
+351,"COI","con","study",6
+351,"COI","con","journal",6
+351,"COI","con","company",6
+351,"COI","con","authors",6
+351,"COI","con","replicability",65
+352,"no COI","pro","study",5
+352,"no COI","pro","journal",6
+352,"no COI","pro","company",5
+352,"no COI","pro","authors",5
+352,"no COI","pro","replicability",90
+353,"no COI","con","study",5
+353,"no COI","con","journal",4
+353,"no COI","con","company",4
+353,"no COI","con","authors",5
+353,"no COI","con","replicability",80
+354,"no COI","pro","study",3
+354,"no COI","pro","journal",3
+354,"no COI","pro","company",3
+354,"no COI","pro","authors",3
+354,"no COI","pro","replicability",60
+355,"no COI","con","study",6
+355,"no COI","con","journal",6
+355,"no COI","con","company",4
+355,"no COI","con","authors",6
+355,"no COI","con","replicability",70
+356,"no COI","pro","study",6
+356,"no COI","pro","journal",6
+356,"no COI","pro","company",5
+356,"no COI","pro","authors",5
+356,"no COI","pro","replicability",70
+357,"no COI","con","study",5
+357,"no COI","con","journal",6
+357,"no COI","con","company",5
+357,"no COI","con","authors",5
+357,"no COI","con","replicability",80
+358,"no COI","con","study",6
+358,"no COI","con","journal",6
+358,"no COI","con","company",4
+358,"no COI","con","authors",6
+358,"no COI","con","replicability",70
+359,"COI","con","study",6
+359,"COI","con","journal",6
+359,"COI","con","company",6
+359,"COI","con","authors",6
+359,"COI","con","replicability",92
+360,"COI","pro","study",4
+360,"COI","pro","journal",3
+360,"COI","pro","company",3
+360,"COI","pro","authors",4
+360,"COI","pro","replicability",40
+362,"COI","con","study",5
+362,"COI","con","journal",5
+362,"COI","con","company",3
+362,"COI","con","authors",5
+362,"COI","con","replicability",80
+363,"no COI","con","study",4
+363,"no COI","con","journal",3
+363,"no COI","con","company",5
+363,"no COI","con","authors",5
+363,"no COI","con","replicability",78
+364,"COI","pro","study",5
+364,"COI","pro","journal",5
+364,"COI","pro","company",5
+364,"COI","pro","authors",5
+364,"COI","pro","replicability",85
+365,"no COI","pro","study",6
+365,"no COI","pro","journal",6
+365,"no COI","pro","company",4
+365,"no COI","pro","authors",6
+365,"no COI","pro","replicability",95
+367,"no COI","pro","study",6
+367,"no COI","pro","journal",5
+367,"no COI","pro","company",5
+367,"no COI","pro","authors",5
+367,"no COI","pro","replicability",75
+368,"no COI","con","study",2
+368,"no COI","con","journal",4
+368,"no COI","con","company",2
+368,"no COI","con","authors",4
+368,"no COI","con","replicability",50
+369,"no COI","con","study",5
+369,"no COI","con","journal",4
+369,"no COI","con","company",4
+369,"no COI","con","authors",5
+369,"no COI","con","replicability",50
+370,"COI","pro","study",5
+370,"COI","pro","journal",6
+370,"COI","pro","company",4
+370,"COI","pro","authors",5
+370,"COI","pro","replicability",80
+371,"no COI","con","study",5
+371,"no COI","con","journal",4
+371,"no COI","con","company",4
+371,"no COI","con","authors",4
+371,"no COI","con","replicability",70
+372,"no COI","con","study",5
+372,"no COI","con","journal",6
+372,"no COI","con","company",5
+372,"no COI","con","authors",5
+372,"no COI","con","replicability",70
+373,"no COI","pro","study",6
+373,"no COI","pro","journal",5
+373,"no COI","pro","company",5
+373,"no COI","pro","authors",5
+373,"no COI","pro","replicability",10
+374,"no COI","pro","study",5
+374,"no COI","pro","journal",6
+374,"no COI","pro","company",6
+374,"no COI","pro","authors",7
+374,"no COI","pro","replicability",100
+375,"no COI","pro","study",6
+375,"no COI","pro","journal",6
+375,"no COI","pro","company",6
+375,"no COI","pro","authors",6
+375,"no COI","pro","replicability",80
+376,"no COI","con","study",6
+376,"no COI","con","journal",6
+376,"no COI","con","company",6
+376,"no COI","con","authors",6
+376,"no COI","con","replicability",90
+377,"no COI","con","study",6
+377,"no COI","con","journal",6
+377,"no COI","con","company",6
+377,"no COI","con","authors",7
+377,"no COI","con","replicability",80
+378,"COI","con","study",5
+378,"COI","con","journal",5
+378,"COI","con","company",5
+378,"COI","con","authors",5
+378,"COI","con","replicability",65
+379,"COI","pro","study",5
+379,"COI","pro","journal",4
+379,"COI","pro","company",5
+379,"COI","pro","authors",5
+379,"COI","pro","replicability",66
+380,"no COI","pro","study",5
+380,"no COI","pro","journal",4
+380,"no COI","pro","company",4
+380,"no COI","pro","authors",5
+380,"no COI","pro","replicability",65
+381,"no COI","con","study",6
+381,"no COI","con","journal",6
+381,"no COI","con","company",4
+381,"no COI","con","authors",6
+381,"no COI","con","replicability",85
+382,"no COI","con","study",6
+382,"no COI","con","journal",6
+382,"no COI","con","company",4
+382,"no COI","con","authors",6
+382,"no COI","con","replicability",70
+383,"COI","con","study",4
+383,"COI","con","journal",4
+383,"COI","con","company",4
+383,"COI","con","authors",4
+383,"COI","con","replicability",20
+384,"COI","pro","study",3
+384,"COI","pro","journal",5
+384,"COI","pro","company",5
+384,"COI","pro","authors",4
+384,"COI","pro","replicability",40
+385,"no COI","con","study",7
+385,"no COI","con","journal",7
+385,"no COI","con","company",6
+385,"no COI","con","authors",7
+385,"no COI","con","replicability",90
+386,"no COI","pro","study",5
+386,"no COI","pro","journal",4
+386,"no COI","pro","company",4
+386,"no COI","pro","authors",5
+386,"no COI","pro","replicability",60
+387,"no COI","pro","study",5
+387,"no COI","pro","journal",5
+387,"no COI","pro","company",4
+387,"no COI","pro","authors",4
+387,"no COI","pro","replicability",50
+388,"COI","con","study",4
+388,"COI","con","journal",6
+388,"COI","con","company",3
+388,"COI","con","authors",4
+388,"COI","con","replicability",45
+390,"COI","pro","study",5
+390,"COI","pro","journal",4
+390,"COI","pro","company",5
+390,"COI","pro","authors",4
+390,"COI","pro","replicability",50
+391,"COI","pro","study",6
+391,"COI","pro","journal",6
+391,"COI","pro","company",6
+391,"COI","pro","authors",6
+391,"COI","pro","replicability",70
+392,"COI","pro","study",2
+392,"COI","pro","journal",3
+392,"COI","pro","company",2
+392,"COI","pro","authors",2
+392,"COI","pro","replicability",40
+393,"COI","pro","study",5
+393,"COI","pro","journal",6
+393,"COI","pro","company",4
+393,"COI","pro","authors",4
+393,"COI","pro","replicability",70
+394,"no COI","pro","study",5
+394,"no COI","pro","journal",5
+394,"no COI","pro","company",5
+394,"no COI","pro","authors",5
+394,"no COI","pro","replicability",75
+395,"no COI","con","study",5
+395,"no COI","con","journal",5
+395,"no COI","con","company",4
+395,"no COI","con","authors",5
+395,"no COI","con","replicability",50
+396,"COI","con","study",7
+396,"COI","con","journal",7
+396,"COI","con","company",5
+396,"COI","con","authors",7
+396,"COI","con","replicability",85
+397,"no COI","pro","study",3
+397,"no COI","pro","journal",2
+397,"no COI","pro","company",2
+397,"no COI","pro","authors",2
+397,"no COI","pro","replicability",50
+398,"COI","pro","study",5
+398,"COI","pro","journal",5
+398,"COI","pro","company",5
+398,"COI","pro","authors",5
+398,"COI","pro","replicability",77
+399,"no COI","pro","study",1
+399,"no COI","pro","journal",4
+399,"no COI","pro","company",7
+399,"no COI","pro","authors",3
+399,"no COI","pro","replicability",60
+400,"COI","pro","study",6
+400,"COI","pro","journal",6
+400,"COI","pro","company",6
+400,"COI","pro","authors",6
+400,"COI","pro","replicability",65
+401,"COI","pro","study",3
+401,"COI","pro","journal",3
+401,"COI","pro","company",3
+401,"COI","pro","authors",4
+401,"COI","pro","replicability",60
+403,"COI","con","study",6
+403,"COI","con","journal",7
+403,"COI","con","company",7
+403,"COI","con","authors",6
+403,"COI","con","replicability",78
+404,"COI","pro","study",7
+404,"COI","pro","journal",7
+404,"COI","pro","company",7
+404,"COI","pro","authors",7
+404,"COI","pro","replicability",100
+406,"COI","pro","study",4
+406,"COI","pro","journal",4
+406,"COI","pro","company",4
+406,"COI","pro","authors",4
+406,"COI","pro","replicability",50
+407,"no COI","con","study",6
+407,"no COI","con","journal",7
+407,"no COI","con","company",7
+407,"no COI","con","authors",6
+407,"no COI","con","replicability",100
+408,"no COI","pro","study",6
+408,"no COI","pro","journal",6
+408,"no COI","pro","company",6
+408,"no COI","pro","authors",6
+408,"no COI","pro","replicability",90
+409,"no COI","pro","study",6
+409,"no COI","pro","journal",6
+409,"no COI","pro","company",6
+409,"no COI","pro","authors",6
+409,"no COI","pro","replicability",80
+410,"COI","pro","study",6
+410,"COI","pro","journal",7
+410,"COI","pro","company",6
+410,"COI","pro","authors",7
+410,"COI","pro","replicability",80
+411,"no COI","pro","study",3
+411,"no COI","pro","journal",5
+411,"no COI","pro","company",5
+411,"no COI","pro","authors",5
+411,"no COI","pro","replicability",70
+412,"COI","con","study",6
+412,"COI","con","journal",6
+412,"COI","con","company",4
+412,"COI","con","authors",6
+412,"COI","con","replicability",75
+413,"no COI","pro","study",6
+413,"no COI","pro","journal",6
+413,"no COI","pro","company",6
+413,"no COI","pro","authors",6
+413,"no COI","pro","replicability",75
+416,"COI","con","study",6
+416,"COI","con","journal",6
+416,"COI","con","company",6
+416,"COI","con","authors",6
+416,"COI","con","replicability",70
+417,"COI","con","study",7
+417,"COI","con","journal",5
+417,"COI","con","company",3
+417,"COI","con","authors",6
+417,"COI","con","replicability",100
+419,"COI","con","study",6
+419,"COI","con","journal",6
+419,"COI","con","company",4
+419,"COI","con","authors",6
+419,"COI","con","replicability",80
+420,"COI","con","study",6
+420,"COI","con","journal",6
+420,"COI","con","company",3
+420,"COI","con","authors",7
+420,"COI","con","replicability",100
+423,"COI","con","study",7
+423,"COI","con","journal",7
+423,"COI","con","company",5
+423,"COI","con","authors",7
+423,"COI","con","replicability",85
+424,"COI","pro","study",7
+424,"COI","pro","journal",5
+424,"COI","pro","company",7
+424,"COI","pro","authors",5
+424,"COI","pro","replicability",80
+425,"COI","con","study",5
+425,"COI","con","journal",4
+425,"COI","con","company",4
+425,"COI","con","authors",4
+425,"COI","con","replicability",50
+426,"COI","con","study",4
+426,"COI","con","journal",4
+426,"COI","con","company",4
+426,"COI","con","authors",4
+426,"COI","con","replicability",100
+427,"no COI","pro","study",7
+427,"no COI","pro","journal",7
+427,"no COI","pro","company",6
+427,"no COI","pro","authors",6
+427,"no COI","pro","replicability",85
+428,"COI","con","study",6
+428,"COI","con","journal",7
+428,"COI","con","company",6
+428,"COI","con","authors",6
+428,"COI","con","replicability",70
+429,"COI","con","study",6
+429,"COI","con","journal",6
+429,"COI","con","company",6
+429,"COI","con","authors",6
+429,"COI","con","replicability",78
+430,"COI","con","study",2
+430,"COI","con","journal",4
+430,"COI","con","company",1
+430,"COI","con","authors",3
+430,"COI","con","replicability",25
+431,"COI","con","study",6
+431,"COI","con","journal",5
+431,"COI","con","company",5
+431,"COI","con","authors",5
+431,"COI","con","replicability",70
+432,"COI","pro","study",6
+432,"COI","pro","journal",7
+432,"COI","pro","company",6
+432,"COI","pro","authors",6
+432,"COI","pro","replicability",80
+433,"COI","con","study",5
+433,"COI","con","journal",6
+433,"COI","con","company",5
+433,"COI","con","authors",7
+433,"COI","con","replicability",60
+434,"COI","con","study",4
+434,"COI","con","journal",4
+434,"COI","con","company",4
+434,"COI","con","authors",4
+434,"COI","con","replicability",80
+435,"COI","pro","study",5
+435,"COI","pro","journal",5
+435,"COI","pro","company",5
+435,"COI","pro","authors",5
+435,"COI","pro","replicability",65
+436,"no COI","pro","study",5
+436,"no COI","pro","journal",6
+436,"no COI","pro","company",5
+436,"no COI","pro","authors",6
+436,"no COI","pro","replicability",45
+437,"COI","pro","study",6
+437,"COI","pro","journal",6
+437,"COI","pro","company",6
+437,"COI","pro","authors",6
+437,"COI","pro","replicability",85
+438,"COI","con","study",6
+438,"COI","con","journal",6
+438,"COI","con","company",6
+438,"COI","con","authors",6
+438,"COI","con","replicability",60
+439,"COI","con","study",3
+439,"COI","con","journal",6
+439,"COI","con","company",4
+439,"COI","con","authors",3
+439,"COI","con","replicability",60
+440,"COI","con","study",7
+440,"COI","con","journal",7
+440,"COI","con","company",7
+440,"COI","con","authors",7
+440,"COI","con","replicability",95
+441,"no COI","con","study",6
+441,"no COI","con","journal",6
+441,"no COI","con","company",6
+441,"no COI","con","authors",6
+441,"no COI","con","replicability",89
+442,"COI","con","study",7
+442,"COI","con","journal",6
+442,"COI","con","company",6
+442,"COI","con","authors",7
+442,"COI","con","replicability",98
+444,"COI","con","study",5
+444,"COI","con","journal",4
+444,"COI","con","company",3
+444,"COI","con","authors",4
+444,"COI","con","replicability",50
+445,"COI","con","study",6
+445,"COI","con","journal",5
+445,"COI","con","company",5
+445,"COI","con","authors",6
+445,"COI","con","replicability",70
+446,"COI","con","study",6
+446,"COI","con","journal",6
+446,"COI","con","company",5
+446,"COI","con","authors",6
+446,"COI","con","replicability",85
+447,"COI","con","study",6
+447,"COI","con","journal",6
+447,"COI","con","company",6
+447,"COI","con","authors",6
+447,"COI","con","replicability",60
+448,"COI","con","study",5
+448,"COI","con","journal",5
+448,"COI","con","company",5
+448,"COI","con","authors",4
+448,"COI","con","replicability",80

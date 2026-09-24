@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite this repository and the associated publication when available."
+title: "Conflicts of Interest and Trust in Science"
+authors:
+  - family-names: Schultze
+    given-names: Thomas
+type: dataset
+license: MIT
+url: "https://github.com/ThomasSchultze/Conflicts-of-Interest-and-Trust-in-Science"
+abstract: "Supplementary data and analysis code for five experiments on conflicts of interest and trust in science."
