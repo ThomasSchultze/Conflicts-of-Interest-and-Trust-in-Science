@@ -156,7 +156,7 @@ p_legend = ggplot(data = df %>% filter(measure == "study"),
   theme(legend.position = "bottom")
 
 
-fig1 = grid.arrange(p1, p2, p3, p4, p5, ggpubr::get_legend(p_legend),
+fig1 = grid.arrange(p1, p2, p3, p4, p5, cowplot::get_legend(p_legend),
                     ncol = 2)
 
 
