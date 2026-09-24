@@ -8,12 +8,9 @@
 # custom colour palettes
 BAM_primary = c('#00457D', '#FFD300', '#97BF0D', '#E6444F')
 
-library(BayesFactor)
 library(dplyr)
-library(HDInterval)
 library(ggplot2)
-library(cowplot)
-library(ggbreak)
+library(gridExtra)
 
 
 # read individual data sets
