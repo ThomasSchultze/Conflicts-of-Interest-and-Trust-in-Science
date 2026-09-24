@@ -2,9 +2,17 @@
 
 Supplementary data, analysis code, and study materials for a five-experiment project on conflicts of interest and trust in science.
 
-## Preregistration
+## OSF resources
 
-All studies were preregistered on the [Open Science Framework](https://osf.io/79gcq/overview?view_only=f1e6bd8117524cd18f9f6e71cb6669a2).
+The [OSF project](https://osf.io/79gcq/overview?view_only=f1e6bd8117524cd18f9f6e71cb6669a2) contains the project data, scripts, and study materials. Each experiment was preregistered separately:
+
+| Experiment | Preregistration |
+| --- | --- |
+| Experiment 1 | [OSF preregistration](https://osf.io/zc2ne/?view_only=a571ca0e69b24524bd7dfd564b52e58b) |
+| Experiment 2 | [OSF preregistration](https://osf.io/5yngj/?view_only=aa0ba95fadee4acf9fa0428062d13d36) |
+| Experiment 3 | [OSF preregistration](https://osf.io/p5yd6/?view_only=0e77ed1ab69d472cb2c923de9852762f) |
+| Experiment 4 | [OSF preregistration](https://osf.io/mkfb2/?view_only=86ec06508f284d009363e76560d1943b) |
+| Experiment 5 | [OSF preregistration](https://osf.io/an64j/?view_only=0c93316dda4542ffbb60ab1dddf2d220) |
 
 ## Repository contents
 
@@ -35,4 +43,4 @@ The data are public with participant consent and contain no direct identifying i
 
 ## Licensing and citation
 
-The R code is available under the [MIT License](LICENSE). Data and study materials are available under [CC BY 4.0](LICENSE-DATA.md). A formal citation will be added when the associated paper is published; until then, please cite this repository, the authors, and the OSF preregistration.
+The R code is available under the [MIT License](LICENSE). Data and study materials are available under [CC BY 4.0](LICENSE-DATA.md). A formal citation will be added when the associated paper is published; until then, please cite this repository, the authors, and the relevant OSF preregistration.
