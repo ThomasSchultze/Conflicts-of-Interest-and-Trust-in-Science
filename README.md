@@ -12,8 +12,7 @@ All studies were preregistered on the [Open Science Framework](https://osf.io/79
 | --- | --- |
 | `experiments/experiment-1` through `experiments/experiment-5` | Self-contained folders containing anonymised participant-level data, the R analysis script, and study materials for each experiment. |
 | `combined-figure` | Tidy figure data and the R script that creates the combined central result figure. |
-| `figures` | Generated, publication-quality figures. Run the figure script to create `Fig1.png`. |
-| `materials` | Publicly shareable study materials; these will be added when available. |
+| `site` | Source files for the public results site, published automatically with GitHub Pages. |
 
 ## Reproducing the analyses
 
@@ -28,7 +27,7 @@ source("experiments/experiment-5/COI_Exp5.R")
 source("combined-figure/COI_plots.R")
 ```
 
-The final command writes the central combined figure to `figures/Fig1.png` at 600 dpi. Individual analysis scripts retain the original analysis workflow and print results to the R console.
+The final command writes the central combined figure to `combined-figure/Fig1.png` at 600 dpi. Individual analysis scripts retain the original analysis workflow and print results to the R console.
 
 ## Data notes
 

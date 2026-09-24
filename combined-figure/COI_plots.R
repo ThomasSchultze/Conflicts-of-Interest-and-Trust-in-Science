@@ -14,11 +14,11 @@ library(gridExtra)
 
 
 # read individual data sets
-df1 = read.csv("combined-figure/data/plot_data_Exp1.csv") 
-df2 = read.csv("combined-figure/data/plot_data_Exp2.csv") 
-df3 = read.csv("combined-figure/data/plot_data_Exp3.csv") 
-df4 = read.csv("combined-figure/data/plot_data_Exp4.csv") 
-df5 = read.csv("combined-figure/data/plot_data_Exp5.csv")
+df1 = read.csv("combined-figure/plot_data_Exp1.csv")
+df2 = read.csv("combined-figure/plot_data_Exp2.csv")
+df3 = read.csv("combined-figure/plot_data_Exp3.csv")
+df4 = read.csv("combined-figure/plot_data_Exp4.csv")
+df5 = read.csv("combined-figure/plot_data_Exp5.csv")
 
 
 # combine data sets
@@ -160,8 +160,7 @@ fig1 = grid.arrange(p1, p2, p3, p4, p5, cowplot::get_legend(p_legend),
                     ncol = 2)
 
 
-dir.create("figures", showWarnings = FALSE)
-ggsave("figures/Fig1.png", fig1, width = 9, height = 6, units = "in", dpi = 600)
+ggsave("combined-figure/Fig1.png", fig1, width = 9, height = 6, units = "in", dpi = 600)
 
 
  
