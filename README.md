@@ -1,5 +1,7 @@
 # Conflicts of Interest and Trust in Science
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23535723.svg)](https://doi.org/10.5281/zenodo.23535723)
+
 Supplementary data, analysis code, and study materials for a five-experiment project on conflicts of interest and trust in science.
 
 ## OSF resources
@@ -48,4 +50,10 @@ The data are public with participant consent and contain no direct identifying i
 
 ## Licensing and citation
 
-The R code is available under the [MIT License](LICENSE). Data and study materials are available under [CC BY 4.0](LICENSE-DATA.md). A formal citation will be added when the associated paper is published; until then, please cite this repository, the authors, and the relevant OSF preregistration.
+The R code is available under the [MIT License](LICENSE). Data and study materials are available under [CC BY 4.0](LICENSE-DATA.md).
+
+Please cite the archived release when using these resources:
+
+Schultze, T., & Feeney, A. (2026). *Conflicts of Interest and Trust in Science* (Version 1.0.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.23535723](https://doi.org/10.5281/zenodo.23535723)
+
+The DOI above identifies this specific release. The [all-versions DOI](https://doi.org/10.5281/zenodo.23535722) links the release series. Please also cite the associated paper when available and the relevant OSF preregistration.
