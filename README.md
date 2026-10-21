@@ -14,12 +14,17 @@ The [OSF project](https://osf.io/79gcq/overview?view_only=f1e6bd8117524cd18f9f6e
 | Experiment 4 | [OSF preregistration](https://osf.io/mkfb2/?view_only=86ec06508f284d009363e76560d1943b) |
 | Experiment 5 | [OSF preregistration](https://osf.io/an64j/?view_only=0c93316dda4542ffbb60ab1dddf2d220) |
 
+## Supplemental Material
+
+[Read or download the supplemental information (PDF)](supplemental-material/supplemental-information.pdf), containing the full methods and results for Experiments 1–5.
+
 ## Repository contents
 
 | Location | Contents |
 | --- | --- |
 | `experiments/experiment-1` through `experiments/experiment-5` | Self-contained folders containing anonymised participant-level data, the R analysis script, and study materials for each experiment. |
 | `combined-figure` | Tidy figure data, R script, and publication-ready central result figure (`Fig1.png`). |
+| `supplemental-material` | Supplemental information PDF with full methods and results for Experiments 1–5. |
 | `site` | Source files for the public results site, published automatically with GitHub Pages. |
 
 ## Reproducing the analyses

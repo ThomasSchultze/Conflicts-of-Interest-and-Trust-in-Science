@@ -11,3 +11,12 @@ copied <- file.copy("combined-figure/Fig1.png", "site/assets/Fig1.png", overwrit
 if (!copied) {
   stop("The combined figure could not be copied into the site.")
 }
+
+supplemental_pdf <- "supplemental-material/supplemental-information.pdf"
+if (!file.exists(supplemental_pdf)) {
+  stop("The supplemental information PDF is missing.")
+}
+dir.create("site/supplemental-material", recursive = TRUE, showWarnings = FALSE)
+if (!file.copy(supplemental_pdf, "site/supplemental-material/supplemental-information.pdf", overwrite = TRUE)) {
+  stop("The supplemental information PDF could not be copied into the site.")
+}
