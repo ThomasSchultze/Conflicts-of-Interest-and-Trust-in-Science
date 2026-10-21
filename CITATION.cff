@@ -4,7 +4,13 @@ title: "Conflicts of Interest and Trust in Science"
 authors:
   - family-names: Schultze
     given-names: Thomas
+  - family-names: Feeney
+    given-names: Aidan
+    orcid: "https://orcid.org/0000-0002-0442-1676"
 type: dataset
-license: MIT
+version: 1.0.0
+license:
+  - CC-BY-4.0
+  - MIT
 url: "https://github.com/ThomasSchultze/Conflicts-of-Interest-and-Trust-in-Science"
-abstract: "Supplementary data and analysis code for five experiments on conflicts of interest and trust in science."
+abstract: "Data, R analysis code, study materials, figures, and supplemental information for five experiments on conflicts of interest and trust in science. Data and materials are licensed under CC BY 4.0; R code is licensed under MIT."

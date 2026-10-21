@@ -1,0 +1,25 @@
+{
+  "title": "Conflicts of Interest and Trust in Science",
+  "description": "Data, R analysis code, study materials, figures, and supplemental information for five experiments on conflicts of interest and trust in science. This release preserves the complete repository snapshot for citation and reuse. CSV data, study materials, figures, and supplemental information are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0); R code is licensed separately under the MIT License. See LICENSE-DATA.md and LICENSE in the archive.",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Schultze, Thomas"
+    },
+    {
+      "name": "Feeney, Aidan",
+      "orcid": "0000-0002-0442-1676"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "conflicts of interest",
+    "trust in science",
+    "open data",
+    "reproducibility",
+    "Bayesian analysis"
+  ]
+}
